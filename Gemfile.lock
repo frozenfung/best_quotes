@@ -1,0 +1,14 @@
+GEM
+  specs:
+    rack (2.0.3)
+    rulers (0.1.1)
+      rack
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rulers
+
+BUNDLED WITH
+   1.11.2
