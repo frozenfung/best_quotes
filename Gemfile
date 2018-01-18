@@ -1,1 +1,1 @@
-gem 'rulers', '0.3.0'
+gem 'rulers', '0.2.0'
