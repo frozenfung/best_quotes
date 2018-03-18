@@ -1,4 +1,4 @@
 source "https://rubygems.org"
-gem 'rulers', '0.2.0', path: '../rulers'
+gem 'rulers', path: '../rulers'
 
 gem 'rerun'
